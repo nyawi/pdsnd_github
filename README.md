@@ -1,6 +1,6 @@
 ### Date created
 Include the date you created this project and README file.
-17th Dec 2018
+2018-12-17
 ### Project Title
 Replace the Project Title
 github-project
